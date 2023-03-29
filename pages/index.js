@@ -42,6 +42,13 @@ export default function Home() {
             height={37}
             priority
           />
+           <Image
+            src="/zelda-tears-kingdom-rating.jpg"
+            alt="zelda"
+            width={800}
+            height={500}
+            priority
+          />
           <div className={styles.thirteen}>
             <Image
               src="/thirteen.svg"
